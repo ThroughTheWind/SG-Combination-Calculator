@@ -1,0 +1,17 @@
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGAppTest.deps.json
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGAppTest.runtimeconfig.json
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGAppTest.runtimeconfig.dev.json
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGAppTest.dll
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGAppTest.pdb
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGApp.dll
+C:\Users\antoi\source\repos\SGAppTest\bin\Debug\netcoreapp2.2\SGApp.pdb
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.csprojAssemblyReference.cache
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.csproj.CoreCompileInputs.cache
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.AssemblyInfoInputs.cache
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.AssemblyInfo.cs
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.csproj.CopyComplete
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.dll
+C:\Users\antoi\source\repos\SGAppTest\obj\Debug\netcoreapp2.2\SGAppTest.pdb
