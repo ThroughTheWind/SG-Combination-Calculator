@@ -14,7 +14,7 @@ namespace SGApp
         {
             Console.WriteLine();
             Console.WriteLine("You picked the case specific way");
-            Console.WriteLine("Calculating combinations to find 1000 with {25,10,5,1}");
+            Console.WriteLine("Calculating combinations to find 1000 with {25|10|5|1}");
             var combinations = new List<SimpleCombination>();
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
